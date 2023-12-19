@@ -1,0 +1,1 @@
+Simple and efficient To-Do List web app created using HTML, CSS, and JavaScript. Organize your tasks with ease and enhance productivity. This project was developed during my internship at LETSGROWMORE, marking the beginning of my journey into web development.
